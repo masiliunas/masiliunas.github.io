@@ -15,7 +15,7 @@ I do research in Experimental Economics and Behavioral Game Theory. I use labora
 
 - Theory-driven research questions:
   -  Why don't people behave as predicted by Nash equilibrium? How can we model such boundedly-rational decision-making process? How can we design games to help people make better decisions?
-  -  If there are multiple equilibria (conventions), how can a group move from a bad equilibrium to a better one, and how to design the game to facilitate such efficiency-enhancing transitions?
+  -  If there are multiple equilibria (conventions), how can a group move from a bad equilibrium to a better one? How to design games to facilitate such efficiency-enhancing transitions?
 
 - Policy-driven research questions:
   - Are concentrated markets more collusive, and why?
