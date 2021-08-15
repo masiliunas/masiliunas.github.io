@@ -7,13 +7,17 @@ author_profile: true
 
 # Published
 
-**Measuring Labor Supply and Demand Shocks during COVID-19** <br/>
-	+ <ins>Author 1</ins>, Author2, Author 3<br/>
-   **R&R European Economic Review**, 2020<br/>
-   [PDF](https://s3.amazonaws.com/real.stlouisfed.org/wp/2020/2020-011.pdf) &nbsp; [NBER SI slides](/files/Slides_15min.pdf) &nbsp; [SEACEN slides](/files/seacen_slides.pdf) &nbsp; [Code](https://github.com/jbduarte/labor_supply_demand_covid19) &nbsp;  [VOX EU](https://voxeu.org/article/decomposing-demand-and-supply-shocks-during-covid-19)
+**Measuring Labor Supply and Demand Shocks during COVID-19**<br/>
+<ins>Author 1</ins>, Author2, Author 3<br/>
+***R&R European Economic Review***, 2020. [[PDF]](https://s3.amazonaws.com/real.stlouisfed.org/wp/2020/2020-011.pdf) 
+
+**Measuring Labor Supply and Demand Shocks during COVID-19**<br/>
+**Author 1**, Author2, Author 3<br/>
+**R&R European Economic Review**, 2020. [[PDF]](https://s3.amazonaws.com/real.stlouisfed.org/wp/2020/2020-011.pdf) 
+
 
 - One Money, Many Markets <br/>
-(wit﻿h﻿ <a href="https://sites.google.com/site/giancarlocorsetti/" target="_blank">Giancarlo Corsetti</a> and Samuel Mann), 2020 (**Forthcoming at the Journal of the European Economic Association**)
+(with <a href="https://sites.google.com/site/giancarlocorsetti/" target="_blank">Giancarlo Corsetti</a> and Samuel Mann), 2020 (**Forthcoming at the Journal of the European Economic Association**)
 	- [PDF](/files/OneMoney_ManyMarkets.pdf) &nbsp; [ADEMU Policy Brief](https://ademu-project.eu/policy-brief-one-money-many-markets/) &nbsp;  [VOX EU](https://voxeu.org/article/heterogeneous-transmission-ecb-policies)
 
 - Why is Europe Falling Behind? Structural Transformation and Services' Productivity Differences between Europe and the U.S. <br/>
