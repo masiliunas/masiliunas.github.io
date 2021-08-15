@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Aidas Masiliūnas"
-  avatar           : "/files/profile.jpg"
+  avatar           : "profile.jpg"
   bio              : "Research Assistant Professor<br />National University of Singapore"
   location         : 
   employer         : #"National University of Singapore"
