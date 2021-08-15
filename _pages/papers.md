@@ -7,9 +7,9 @@ author_profile: true
 
 # Published
 
-**[One-way routes complicate cooperation in migrant crises](https://www.nature.com/articles/s41598-021-92861-1)**<br/>
+[**One-way routes complicate cooperation in migrant crises**](https://www.nature.com/articles/s41598-021-92861-1)<br/>
 Alessandro Del Ponte, Peter DeScioli, <ins>Aidas Masiliūnas</ins> and Noah Lim<ins><br/>
-***Scientific reports***, 2021. [[PDF]](https://s3.amazonaws.com/real.stlouisfed.org/wp/2020/2020-011.pdf) 
+***Scientific reports***, 2021. [[PDF]](https://www.nature.com/articles/s41598-021-92861-1.pdf) 
 
 
 **Measuring Labor Supply and Demand Shocks during COVID-19**<br/>
