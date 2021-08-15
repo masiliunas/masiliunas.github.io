@@ -11,18 +11,17 @@ author_profile: true
 Alessandro Del Ponte, Peter DeScioli, <ins>Aidas Masiliūnas</ins> and Noah Lim<br/>
 ***Scientific reports***, 2021. <a href="https://www.nature.com/articles/s41598-021-92861-1.pdf" target="_blank">[PDF]</a>
 
-[**Framing and repeated competition**](https://www.sciencedirect.com/science/article/pii/S0899825620301433)<br/>
+<a href="https://www.sciencedirect.com/science/article/pii/S0899825620301433" target="_blank">**Framing and repeated competition**</a><br/>
 <ins>Aidas Masiliūnas</ins> and Heinrich H. Nax<br/>
 ***Games and Economic Behavior***, 2020. <a href="https://www.sciencedirect.com/science/article/pii/S0899825620301433/pdfft?md5=54b30c451ebe9706d65a807adb8778c1&pid=1-s2.0-S0899825620301433-main.pdf" target="_blank">[PDF]</a>
 
-[**Overcoming inefficient lock-in in coordination games with sophisticated and myopic players**](https://www.sciencedirect.com/science/article/abs/pii/S0165489619300289)<br/>
+<a href="https://www.sciencedirect.com/science/article/abs/pii/S0165489619300289" target="_blank">**Overcoming inefficient lock-in in coordination games with sophisticated and myopic players**</a><br/>
 <ins>Aidas Masiliūnas</ins><br/>
-***Mathematical Social Sciences***, 2019. [[PDF]](https://www.dropbox.com/s/ado7n6a8ny8virw/Overcoming%20inefficient%20lock-in%20in%20coordination%20games%20with%20sophisticated%20and%20myopic%20players.pdf?raw=1) 
+***Mathematical Social Sciences***, 2019. <a href="https://www.dropbox.com/s/ado7n6a8ny8virw/Overcoming%20inefficient%20lock-in%20in%20coordination%20games%20with%20sophisticated%20and%20myopic%20players.pdf?raw=1" target="_blank">[PDF]</a>
 
-[**Overcoming coordination failure in a critical mass game: Strategic motives and action disclosure**](https://www.sciencedirect.com/science/article/abs/pii/S0167268117301191)<br/>
+<a href="https://www.sciencedirect.com/science/article/abs/pii/S0167268117301191" target="_blank">**Overcoming coordination failure in a critical mass game: Strategic motives and action disclosure**</a><br/>
 <ins>Aidas Masiliūnas</ins><br/>
-***Journal of Economic Behavior & Organization***, 2017. [[PDF]](https://www.dropbox.com/s/ys4k8js5gnlvtrr/Overcoming%20coordination%20failure%20in%20a%20critical%20mass%20game.pdf?raw=1) 
-
+***Journal of Economic Behavior & Organization***, 2017.  <a href="https://www.dropbox.com/s/ys4k8js5gnlvtrr/Overcoming%20coordination%20failure%20in%20a%20critical%20mass%20game.pdf?raw=1" target="_blank">[PDF]</a>
 
 - One Money, Many Markets <br/>
 (with <a href="https://sites.google.com/site/giancarlocorsetti/" target="_blank">Giancarlo Corsetti</a> and Samuel Mann), 2020 (**Forthcoming at the Journal of the European Economic Association**)
