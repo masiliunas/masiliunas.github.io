@@ -13,7 +13,8 @@ Alessandro Del Ponte, Peter DeScioli, <ins>Aidas Masiliūnas</ins> and Noah Lim<
 
 <a href="https://www.sciencedirect.com/science/article/pii/S0899825620301433" target="_blank">**Framing and repeated competition**</a><br/>
 <ins>Aidas Masiliūnas</ins> and Heinrich H. Nax<br/>
-***Games and Economic Behavior***, 2020. <a href="https://www.sciencedirect.com/science/article/pii/S0899825620301433/pdfft?md5=54b30c451ebe9706d65a807adb8778c1&pid=1-s2.0-S0899825620301433-main.pdf" target="_blank">[PDF]</a> <details><summary>[Details]</summary>
+***Games and Economic Behavior***, 2020. <a href="https://www.sciencedirect.com/science/article/pii/S0899825620301433/pdfft?md5=54b30c451ebe9706d65a807adb8778c1&pid=1-s2.0-S0899825620301433-main.pdf" target="_blank">[PDF]</a> 
+<details><summary>[Details]</summary>
   
   ## Heading
   1. A numbered
