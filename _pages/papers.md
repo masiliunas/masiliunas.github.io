@@ -9,7 +9,7 @@ author_profile: true
 
 <a href="https://www.nature.com/articles/s41598-021-92861-1" target="_blank">**One-way routes complicate cooperation in migrant crises**</a><br/>
 Alessandro Del Ponte, Peter DeScioli, <ins>Aidas Masiliūnas</ins> and Noah Lim<br/>
-***Scientific reports***, 2021. <a href="https://www.nature.com/articles/s41598-021-92861-1.pdf" target="_blank">[PDF]</a>
+***Scientific Reports***, 2021. <a href="https://www.nature.com/articles/s41598-021-92861-1.pdf" target="_blank">[PDF]</a>
 
 <a href="https://www.sciencedirect.com/science/article/pii/S0899825620301433" target="_blank">**Framing and repeated competition**</a><br/>
 <ins>Aidas Masiliūnas</ins> and Heinrich H. Nax<br/>
