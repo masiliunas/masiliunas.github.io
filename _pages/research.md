@@ -28,11 +28,11 @@ Alessandro Del Ponte, Peter DeScioli, <ins>Aidas Masiliūnas</ins> and Noah Lim<
 
 # Working papers
 
-<a href="../files/Learning%20in%20contests.pdf?raw=1" target="_blank">**Payoff risk and foregone payoff information in contests**</a><br/>
+<a href="../files/Learning%20in%20contests.pdf" target="_blank">**Payoff risk and foregone payoff information in contests**</a><br/>
 **Revise and Resubmit**, ***Games and Economic Behavior***
 
 <a href="https://www.iser.osaka-u.ac.jp/library/dp/2021/DP1131.pdf" target="_blank">**Market Concentration and Incentives to Collude in Cournot Oligopoly Experiments**</a> (with Nobuyuki Hanaki)
 
-<a href="../files/Behavioral%20variation%20in%20Tullock%20contests.pdf?raw=1" target="_blank">**Behavioral variation in Tullock contests**</a> (with Friederike Mengel and J. Philipp Reiss)
+<a href="../files/Behavioral%20variation%20in%20Tullock%20contests.pdf" target="_blank">**Behavioral variation in Tullock contests**</a> (with Friederike Mengel and J. Philipp Reiss)
 
 
