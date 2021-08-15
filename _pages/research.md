@@ -17,7 +17,7 @@ Alessandro Del Ponte, Peter DeScioli, <ins>Aidas Masiliūnas</ins> and Noah Lim<
 
 <a href="https://www.sciencedirect.com/science/article/abs/pii/S0165489619300289" target="_blank">**Overcoming inefficient lock-in in coordination games with sophisticated and myopic players**</a><br/>
 <ins>Aidas Masiliūnas</ins><br/>
-***Mathematical Social Sciences***, 2019. <a href="../files/Overcoming inefficient lock-in in coordination games with sophisticated and myopic players.pdf" target="_blank">[PDF]</a>
+***Mathematical Social Sciences***, 2019. <a href="../files/Overcoming%20inefficient%20lock-in%20in%20coordination%20games%20with%20sophisticated%20and%20myopic%20players.pdf" target="_blank">[PDF]</a>
 
 <a href="https://www.sciencedirect.com/science/article/abs/pii/S0167268117301191" target="_blank">**Overcoming coordination failure in a critical mass game: Strategic motives and action disclosure**</a><br/>
 <ins>Aidas Masiliūnas</ins><br/>
