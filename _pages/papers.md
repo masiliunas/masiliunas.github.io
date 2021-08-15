@@ -5,11 +5,12 @@ permalink: papers/
 author_profile: true
 ---
 
-# Papers
+# Published
 
-- Measuring Labor Supply and Demand Shocks during COVID-19 <br/>
-(wit﻿h﻿ <a href="https://pedrobrinca.pt/" target="_blank">Pedro Brinca</a> and <a href="http://fariaecastro.net/" target="_blank">Miguel Faria-e-Castro</a>), 2020 (**R&R European Economic Review**)
-    - [PDF](https://s3.amazonaws.com/real.stlouisfed.org/wp/2020/2020-011.pdf) &nbsp; [NBER SI slides](/files/Slides_15min.pdf) &nbsp; [SEACEN slides](/files/seacen_slides.pdf) &nbsp; [Code](https://github.com/jbduarte/labor_supply_demand_covid19) &nbsp;  [VOX EU](https://voxeu.org/article/decomposing-demand-and-supply-shocks-during-covid-19)
+   *Measuring Labor Supply and Demand Shocks during COVID-19* <br/>
+<ins>Author 1<\ins>, Author2, Author 3
+**R&R European Economic Review**, 2020
+        [PDF](https://s3.amazonaws.com/real.stlouisfed.org/wp/2020/2020-011.pdf) &nbsp; [NBER SI slides](/files/Slides_15min.pdf) &nbsp; [SEACEN slides](/files/seacen_slides.pdf) &nbsp; [Code](https://github.com/jbduarte/labor_supply_demand_covid19) &nbsp;  [VOX EU](https://voxeu.org/article/decomposing-demand-and-supply-shocks-during-covid-19)
 
 - One Money, Many Markets <br/>
 (wit﻿h﻿ <a href="https://sites.google.com/site/giancarlocorsetti/" target="_blank">Giancarlo Corsetti</a> and Samuel Mann), 2020 (**Forthcoming at the Journal of the European Economic Association**)
