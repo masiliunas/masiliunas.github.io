@@ -7,9 +7,9 @@ author_profile: true
 
 # Published
 
-   *Measuring Labor Supply and Demand Shocks during COVID-19* <br/>
-	<ins>Author 1</ins>, Author2, Author 3
-	**R&R European Economic Review**, 2020
+   **Measuring Labor Supply and Demand Shocks during COVID-19** <br/>
+	<ins>Author 1</ins>, Author2, Author 3<br/>
+	**R&R European Economic Review**, 2020<br/>
         [PDF](https://s3.amazonaws.com/real.stlouisfed.org/wp/2020/2020-011.pdf) &nbsp; [NBER SI slides](/files/Slides_15min.pdf) &nbsp; [SEACEN slides](/files/seacen_slides.pdf) &nbsp; [Code](https://github.com/jbduarte/labor_supply_demand_covid19) &nbsp;  [VOX EU](https://voxeu.org/article/decomposing-demand-and-supply-shocks-during-covid-19)
 
 - One Money, Many Markets <br/>
