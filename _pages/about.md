@@ -20,5 +20,5 @@ I do research in Experimental Economics and Behavioral Game Theory. I use labora
 - Policy-driven research questions:
   - Are concentrated markets more collusive, and why?
   - How does exposure to economic inequality affect the motivation to work, cheat, invest in future growth or solve problems for the future generations? How to mitigate the negative effects of inequality using redistribution and feedback?
-  - How to design international agreements for climate change mitigation? 
+  - Why do climate negotiations fail and how to improve the design of environmental agreements?
   - How to design tournament incentives to motivate effort in the workplace or healthier lifestyle? 
