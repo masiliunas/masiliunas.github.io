@@ -8,7 +8,7 @@ author_profile: true
 # Published
 
 **Measuring Labor Supply and Demand Shocks during COVID-19**<br/>
-<ins>Author 1</ins>, Author2, Author 3<br/>
+Author 1, Author2, Author 3<br/>
 ***R&R European Economic Review***, 2020. [[PDF]](https://s3.amazonaws.com/real.stlouisfed.org/wp/2020/2020-011.pdf) 
 
 **Measuring Labor Supply and Demand Shocks during COVID-19**<br/>
