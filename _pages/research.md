@@ -21,18 +21,18 @@ Alessandro Del Ponte, Peter DeScioli, <ins>Aidas Masiliūnas</ins> and Noah Lim<
 
 <a href="https://www.sciencedirect.com/science/article/abs/pii/S0167268117301191" target="_blank">**Overcoming coordination failure in a critical mass game: Strategic motives and action disclosure**</a><br/>
 <ins>Aidas Masiliūnas</ins><br/>
-***Journal of Economic Behavior & Organization***, 2017.  <a href="https://www.dropbox.com/s/ys4k8js5gnlvtrr/Overcoming%20coordination%20failure%20in%20a%20critical%20mass%20game.pdf?raw=1" target="_blank">[PDF]</a>
+***Journal of Economic Behavior & Organization***, 2017.  <a href="../files/Overcoming%20coordination%20failure%20in%20a%20critical%20mass%20game.pdf" target="_blank">[PDF]</a>
 
 
 ---
 
 # Working papers
 
-<a href="https://www.dropbox.com/s/hf9jpg81nh2y4jz/Learning%20in%20contests.pdf?raw=1" target="_blank">**Payoff risk and foregone payoff information in contests**</a><br/>
+<a href="../files/Learning%20in%20contests.pdf?raw=1" target="_blank">**Payoff risk and foregone payoff information in contests**</a><br/>
 **Revise and Resubmit**, ***Games and Economic Behavior***
 
 <a href="https://www.iser.osaka-u.ac.jp/library/dp/2021/DP1131.pdf" target="_blank">**Market Concentration and Incentives to Collude in Cournot Oligopoly Experiments**</a> (with Nobuyuki Hanaki)
 
-<a href="https://www.dropbox.com/s/e0s0gggdwq4vm2p/Behavioral%20variation%20in%20Tullock%20contests.pdf?raw=1" target="_blank">**Behavioral variation in Tullock contests**</a> (with Friederike Mengel and J. Philipp Reiss)
+<a href="../files/Behavioral%20variation%20in%20Tullock%20contests.pdf?raw=1" target="_blank">**Behavioral variation in Tullock contests**</a> (with Friederike Mengel and J. Philipp Reiss)
 
 
