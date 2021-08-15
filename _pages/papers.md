@@ -5,16 +5,23 @@ permalink: papers/
 author_profile: true
 ---
 
-# Published
+# Published papers
 
 [**One-way routes complicate cooperation in migrant crises**](https://www.nature.com/articles/s41598-021-92861-1)<br/>
 Alessandro Del Ponte, Peter DeScioli, <ins>Aidas Masiliūnas</ins> and Noah Lim<br/>
 ***Scientific reports***, 2021. [[PDF]](https://www.nature.com/articles/s41598-021-92861-1.pdf) 
 
+[**Framing and repeated competition**](https://www.sciencedirect.com/science/article/pii/S0899825620301433)<br/>
+<ins>Aidas Masiliūnas</ins> and Heinrich H. Nax<br/>
+***Games and Economic Behavior***, 2020. [[PDF]](https://www.sciencedirect.com/science/article/pii/S0899825620301433/pdfft?md5=54b30c451ebe9706d65a807adb8778c1&pid=1-s2.0-S0899825620301433-main.pdf) 
 
-**Measuring Labor Supply and Demand Shocks during COVID-19**<br/>
-**Author 1**, Author2, Author 3<br/>
-**R&R European Economic Review**, 2020. [[PDF]](https://s3.amazonaws.com/real.stlouisfed.org/wp/2020/2020-011.pdf) 
+[**Overcoming inefficient lock-in in coordination games with sophisticated and myopic players**](https://www.sciencedirect.com/science/article/abs/pii/S0165489619300289)<br/>
+<ins>Aidas Masiliūnas</ins><br/>
+***Mathematical Social Sciences***, 2019. [[PDF]](https://www.dropbox.com/s/ado7n6a8ny8virw/Overcoming%20inefficient%20lock-in%20in%20coordination%20games%20with%20sophisticated%20and%20myopic%20players.pdf?raw=1) 
+
+[**Overcoming coordination failure in a critical mass game: Strategic motives and action disclosure**](https://www.sciencedirect.com/science/article/abs/pii/S0167268117301191)<br/>
+<ins>Aidas Masiliūnas</ins><br/>
+***Journal of Economic Behavior & Organization***, 2017. [[PDF]](https://www.dropbox.com/s/ys4k8js5gnlvtrr/Overcoming%20coordination%20failure%20in%20a%20critical%20mass%20game.pdf?raw=1) 
 
 
 - One Money, Many Markets <br/>
