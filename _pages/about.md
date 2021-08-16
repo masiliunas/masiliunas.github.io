@@ -14,11 +14,11 @@ I am a Research Assistant Professor at the [National University of Singapore](ht
 I do research in Experimental Economics and Behavioral Game Theory. I use laboratory, online and field experiments, as well as game theory, to address questions that are of significant theoretical or policy relevance. Here are some research questions that I study:
 
 - Theory-driven research questions:
-  -  Why don't people behave as predicted by Nash equilibrium? How can we model such boundedly-rational decision-making process? How can we design games to help people make better decisions?
-  -  If there are multiple equilibria (conventions), how can a group move from a bad equilibrium to a better one? How to design games to facilitate such efficiency-enhancing transitions?
+  -  Why does behavior differ from game-theoretic predictions? Can we improve the accuracy of predictions by incorporating bounded rationality? Can we design games to improve the quality of decisions?
+  -  If there are multiple equilibria (conventions), how can a group move from a bad equilibrium to a better one? What features of the game facilitate such efficiency-enhancing transitions?
 
 - Policy-driven research questions:
   - Are concentrated markets more collusive, and why?
-  - How does exposure to economic inequality affect the motivation to work, cheat, invest in future growth or solve problems for the future generations? How to mitigate the negative effects of inequality using redistribution and feedback?
+  - How does exposure to economic inequality affect the motivation to work, cheat, invest in future growth or solve problems for the future generations? Can redistribution or feedback mitigate the negative effects of inequality?
   - Why do climate negotiations fail and how to improve the design of environmental agreements?
   - How to design tournament incentives to motivate effort in the workplace or healthier lifestyle? 
