@@ -5,7 +5,7 @@ permalink: research/
 author_profile: true
 ---
 
-# Published papers
+# Publications
 
 <a href="https://www.nature.com/articles/s41598-021-92861-1" target="_blank">**One-way routes complicate cooperation in migrant crises**</a><br/>
 Alessandro Del Ponte, Peter DeScioli, <ins>Aidas Masiliūnas</ins> and Noah Lim<br/>
@@ -34,5 +34,23 @@ Alessandro Del Ponte, Peter DeScioli, <ins>Aidas Masiliūnas</ins> and Noah Lim<
 <a href="https://www.iser.osaka-u.ac.jp/library/dp/2021/DP1131.pdf" target="_blank">**Market Concentration and Incentives to Collude in Cournot Oligopoly Experiments**</a> (with Nobuyuki Hanaki)
 
 <a href="../files/Behavioral%20variation%20in%20Tullock%20contests.pdf" target="_blank">**Behavioral variation in Tullock contests**</a> (with Friederike Mengel and J. Philipp Reiss)
+
+---
+
+# Work in progress
+
+**Dynamic and repeated multi-stage tournaments** (with Noah Lim and Hua Chen)
+
+**Public recognition in dynamic competition** (with Noah Lim and Hua Chen)
+
+**Observed inequality reduces real-effort performance in tournaments** (with Noah Lim)
+
+**Asymmetry facilitates wealth creation in a dynamic investment game** (with Alessandro Del Ponte and Noah Lim)
+
+**International climate change agreements with voluntary pledges and reputation** (with Alessandro Del Ponte and Noah Lim)
+
+**From Skinner Box experiments to Black Box games: radical behaviorism for experimental game theory** (with Barbara Ikica, Peiran Jiao and Heinrich H. Nax)
+
+**Learning transfer in the games of strategic complements and substitutes** (with Nobuyuki Hanaki)
 
 
