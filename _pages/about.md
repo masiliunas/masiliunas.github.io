@@ -18,7 +18,7 @@ I do research in Experimental Economics and Behavioral Game Theory. I use labora
   -  If there are multiple equilibria (conventions), how can a group move from a bad equilibrium to a better one? What features of the game facilitate such efficiency-enhancing transitions?
 
 - Policy-driven research questions:
-  - Are concentrated markets more collusive, and why?
+  - Are concentrated markets more collusive and why?
   - How does exposure to economic inequality affect the motivation to work, cheat, invest in future growth or solve problems for the future generations? Can redistribution or feedback mitigate the negative effects of inequality?
   - Why do climate negotiations fail and how to improve the design of environmental agreements?
   - How to design tournament incentives to motivate effort in the workplace or healthier lifestyle? 
