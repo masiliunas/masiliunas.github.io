@@ -39,11 +39,11 @@ Alessandro Del Ponte, Peter DeScioli, <ins>Aidas Masiliūnas</ins> and Noah Lim<
 
 # Work in progress
 
-**Dynamic and repeated multi-stage tournaments** (with Noah Lim and Hua Chen)
+**Observed inequality and redistribution in real-effort tournaments** (with Noah Lim)
 
-**Public recognition in dynamic competition** (with Noah Lim and Hua Chen)
+**Dynamic and repeated multi-stage tournaments** (with Hua Chen and Noah Lim)
 
-**Observed inequality reduces real-effort performance in tournaments** (with Noah Lim)
+**Public recognition in dynamic competition** (with Hua Chen and Noah Lim)
 
 **Asymmetry facilitates wealth creation in a dynamic investment game** (with Alessandro Del Ponte and Noah Lim)
 
