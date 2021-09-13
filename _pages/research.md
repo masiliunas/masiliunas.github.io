@@ -31,7 +31,7 @@ Alessandro Del Ponte, Peter DeScioli, <ins>Aidas Masiliūnas</ins> and Noah Lim<
 <a href="../files/Learning%20in%20contests.pdf" target="_blank">**Payoff risk and foregone payoff information in contests**</a><br/>
 **Revise and Resubmit**, ***Games and Economic Behavior***
 
-<a href="https://www.iser.osaka-u.ac.jp/library/dp/2021/DP1131.pdf" target="_blank">**Market Concentration and Incentives to Collude in Cournot Oligopoly Experiments**</a> (with Nobuyuki Hanaki)
+<a href="../files/Market%20Concentration.pdf" target="_blank">**Market Concentration and Incentives to Collude in Cournot Oligopoly Experiments**</a> (with Nobuyuki Hanaki)
 
 <a href="../files/Historical%20Responsibility%20in%20Climate%20Change%20Negotiations.pdf" target="_blank">**Historical Responsibility in Climate Change Negotiations**</a> (with Alessandro Del Ponte and Noah Lim)
 
