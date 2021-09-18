@@ -33,7 +33,7 @@ Alessandro Del Ponte, Peter DeScioli, <ins>Aidas Masiliūnas</ins> and Noah Lim<
 
 <a href="../files/Market%20Concentration.pdf" target="_blank">**Market Concentration and Incentives to Collude in Cournot Oligopoly Experiments**</a> (with Nobuyuki Hanaki)
 
-<a href="../files/Historical%20Responsibility%20in%20Climate%20Change%20Negotiations.pdf" target="_blank">**Historical Responsibility in Climate Change Negotiations**</a> (with Alessandro Del Ponte and Noah Lim)
+**Historical Responsibility in Climate Change Negotiations** (with Alessandro Del Ponte and Noah Lim)
 
 <a href="../files/Behavioral%20variation%20in%20Tullock%20contests.pdf" target="_blank">**Behavioral variation in Tullock contests**</a> (with Friederike Mengel and J. Philipp Reiss)
 
