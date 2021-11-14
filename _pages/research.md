@@ -28,7 +28,7 @@ Alessandro Del Ponte, Peter DeScioli, <ins>Aidas Masiliūnas</ins> and Noah Lim<
 
 # Working papers
 
-<a href="../files/Learning%20in%20contests.pdf" target="_blank">**Payoff risk and foregone payoff information in contests**</a><br/>
+<a href="../files/Learning%20in%20contests.pdf" target="_blank">**Learning in Rent-Seeking Contests with Payoff Risk and Foregone Payoff Information**</a><br/>
 **Revise and Resubmit**, ***Games and Economic Behavior***
 
 <a href="../files/Market%20Concentration.pdf" target="_blank">**Market Concentration and Incentives to Collude in Cournot Oligopoly Experiments**</a> (with Nobuyuki Hanaki)
