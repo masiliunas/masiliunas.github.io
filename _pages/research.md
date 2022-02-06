@@ -37,22 +37,19 @@ Alessandro Del Ponte, Peter DeScioli, <ins>Aidas Masiliūnas</ins> and Noah Lim<
 
 <a href="../files/Behavioral%20variation%20in%20Tullock%20contests.pdf" target="_blank">**Behavioral variation in Tullock contests**</a> (with Friederike Mengel and J. Philipp Reiss)
 
----
 
-# Work in progress
+[//]: # "**Observed inequality and redistribution in real-effort tournaments** (with Noah Lim)"
 
-[] **Observed inequality and redistribution in real-effort tournaments** (with Noah Lim)
+[//]: # "**Dynamic and repeated multi-stage tournaments** (with Hua Chen and Noah Lim)"
 
-[] **Dynamic and repeated multi-stage tournaments** (with Hua Chen and Noah Lim)
+[//]: # "**Public recognition in dynamic competition** (with Hua Chen and Noah Lim)"
 
-**Public recognition in dynamic competition** (with Hua Chen and Noah Lim)
+[//]: # "**Asymmetry facilitates wealth creation in a dynamic investment game** (with Alessandro Del Ponte and Noah Lim)"
 
-**Asymmetry facilitates wealth creation in a dynamic investment game** (with Alessandro Del Ponte and Noah Lim)
+[//]: # "**International climate change agreements with voluntary pledges and reputation** (with Alessandro Del Ponte and Noah Lim)"
 
-**International climate change agreements with voluntary pledges and reputation** (with Alessandro Del Ponte and Noah Lim)
+[//]: # "**From Skinner Box experiments to Black Box games: radical behaviorism for experimental game theory** (with Barbara Ikica, Peiran Jiao and Heinrich H. Nax)"
 
-**From Skinner Box experiments to Black Box games: radical behaviorism for experimental game theory** (with Barbara Ikica, Peiran Jiao and Heinrich H. Nax)
-
-**Learning transfer in the games of strategic complements and substitutes** (with Nobuyuki Hanaki)
+[//]: # "**Learning transfer in the games of strategic complements and substitutes** (with Nobuyuki Hanaki)"
 
 
