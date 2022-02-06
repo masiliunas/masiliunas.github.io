@@ -41,9 +41,9 @@ Alessandro Del Ponte, Peter DeScioli, <ins>Aidas Masiliūnas</ins> and Noah Lim<
 
 # Work in progress
 
-[//]: # (**Observed inequality and redistribution in real-effort tournaments** (with Noah Lim))
+[] **Observed inequality and redistribution in real-effort tournaments** (with Noah Lim)
 
-**Dynamic and repeated multi-stage tournaments** (with Hua Chen and Noah Lim)
+[] **Dynamic and repeated multi-stage tournaments** (with Hua Chen and Noah Lim)
 
 **Public recognition in dynamic competition** (with Hua Chen and Noah Lim)
 
