@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Lecturer (Assistant Professor) at the [University of Sheffield](https://www.sheffield.ac.uk/), [Department of Economics](https://www.sheffield.ac.uk/economics)). I received my PhD at [Maastricht University](http://www.maastrichtuniversity.nl/), Department of Economics.
+I am a Lecturer (Assistant Professor) at the [University of Sheffield](https://www.sheffield.ac.uk/), [Department of Economics](https://www.sheffield.ac.uk/economics). I received my PhD at [Maastricht University](http://www.maastrichtuniversity.nl/), Department of Economics.
 
 
 I do research in Experimental Economics and Behavioral Game Theory. I use laboratory, online and field experiments, as well as game theory, to address questions that are of significant theoretical or policy relevance. Here are some research questions that I study:
