@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Aidas Masiliūnas"
 title_separator          : "-"
 name                     : &name "Aidas Masiliūnas"
-description              : &description "Personal website of Aidas Masiliunas, Research Assistant Professor at NUS"
+description              : &description "Personal website of Aidas Masiliunas, Lecturer at the University of Sheffield"
 url                      : https://masiliunas.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "masiliunas.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Aidas Masiliūnas"
   avatar           : "profile.jpg"
-  bio              : "Research Assistant Professor<br />National University of Singapore"
+  bio              : "Lecturer<br />The University of Sheffield<br /> Department of Economics"
   location         : 
-  employer         : #"National University of Singapore"
+  employer         : #"The University of Sheffield"
   pubmed           : 
   googlescholar    : 
-  email            : gaiam@nus.edu.sg
+  email            : a.masiliunas@sheffield.ac.uk
   researchgate     :  
   uri              :
   bitbucket        :
