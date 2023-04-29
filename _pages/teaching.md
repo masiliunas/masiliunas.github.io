@@ -5,7 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
-### Game Theory and Behavioural Economics
+### Game Theory
 - Game Theory for Economists (University of Sheffield, Economics undergraduates) - Fall 2022
 - Controversies in Game Theory III (ETH Zurich) - Spring 2016
 
